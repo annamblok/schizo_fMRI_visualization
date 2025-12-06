@@ -1,5 +1,6 @@
 # schizo_fMRI_visualization
-Made by - Anna Blok
+Made by Anna Blok
+
 Date completed : 06-12-2025
 
 This is a repository for my home assignment for my programming course. The project looks at function brain activity related to the clinical term 'schizophrenia'. 
